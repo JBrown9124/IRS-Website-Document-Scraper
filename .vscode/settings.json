@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "c:\\Users\\Jonathan\\Documents\\My_Workspaces\\pinwheel_assessment\\pinwheel_assessment\\.venv\\Scripts\\python.exe"
+}
